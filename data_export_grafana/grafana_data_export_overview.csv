@@ -1,0 +1,13 @@
+﻿System,Chain Height,Target Chain Height,Blocks Behind,Total Difficulty,Block Time (5m avg),Time Since Last Block,Peer Count,% Peer Limit Used
+localhost:9546,"148,857","148,857",0,1.49E+05,1.99 s,3 seconds,11,44%
+localhost:9554,"148,856","148,856",0,1.49E+05,1.99 s,5 seconds,11,44%
+localhost:9548,"148,856","148,856",0,1.49E+05,2.01 s,5 seconds,11,44%
+localhost:9553,"148,855","148,855",0,1.49E+05,1.99 s,7 seconds,11,44%
+localhost:9551,"148,854","148,854",0,1.49E+05,1.99 s,9 seconds,11,44%
+localhost:9545,"148,853","148,853",0,1.49E+05,2.01 s,11 seconds,11,44%
+localhost:9556,"148,852","148,852",0,1.49E+05,1.99 s,13 seconds,11,44%
+localhost:9549,"148,852","148,852",0,1.49E+05,1.99 s,13 seconds,11,44%
+localhost:9555,"148,851","148,851",0,1.49E+05,2.01 s,15 seconds,11,44%
+localhost:9547,"148,851","148,851",0,1.49E+05,1.99 s,15 seconds,11,44%
+localhost:9550,"148,851","148,851",0,1.49E+05,1.99 s,15 seconds,11,44%
+localhost:9552,"148,851","148,851",0,1.49E+05,2.01 s,15 seconds,11,44%
