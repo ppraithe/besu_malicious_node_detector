@@ -21,7 +21,7 @@ node createPrivacyGroup.js
 
 ### **Visualize HyperledgerBesu network performance using grafana**
 
-Besu netowrk performance analysis data exported from grafana interface is in ***data_export_grafana*** directory
+Besu netowrk performance analysis data exported from grafana interface is in ***data_export*** directory
 
 
     
